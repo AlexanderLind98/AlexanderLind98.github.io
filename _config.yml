@@ -3,7 +3,7 @@ title: Alexander M. L. Jørgensen
 subtitle: -Portfolio
 email: alexanderlind98@gmail.com
 description: A collection of the games I have worked on or made, and more info about me.
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "https://AlexanderLind98.github.io" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 country: Denmark
 
