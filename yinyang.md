@@ -2,7 +2,7 @@
 layout: page
 title: YinYang Engine
 description: A 3D rendering engine made in C#
-image: assets/images/YinYang_Thumb.PNG
+image: assets/images/YinYang_Thumb.png
 show_tile: true
 nav-menu: false
 ---
