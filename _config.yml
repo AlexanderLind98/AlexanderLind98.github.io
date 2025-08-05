@@ -3,6 +3,7 @@ title: Alexander M. L. Jørgensen
 subtitle: -Portfolio
 email: alexanderlind98@gmail.com
 description: A collection of the games I have worked on or made, and more info about me.
+image: assets/images/CRPG_ChaosKnight_Crop.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://AlexanderLind98.github.io" # the base hostname & protocol for your site
 country: Denmark

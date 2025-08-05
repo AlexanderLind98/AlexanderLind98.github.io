@@ -2,7 +2,7 @@
 title: All Projects
 layout: page
 description: 'Page with all relevant projects!'
-image: assets/images/CRPG_ChaosKnight_Crop.png
+image: assets/images/CRPG_Arena01.png
 nav-menu: true
 show_tile: true
 ---
@@ -65,7 +65,7 @@ show_tile: true
 				</header>
 				<p>A Half-Life 2 mod, featuring new story, mechanics, and levels. Got on-board the team in January 2025 as a Gameplay programmer, but have also done some level design work (mapping), some 3D modeling, and a few art pieces as concept art. Development is ongoing!</p>
 				<ul class="actions">
-					<li><a href="yinyang.html" class="button">Learn more about Vance</a></li>
+					<li><a href="vance.html" class="button">Learn more about Vance</a></li>
 				</ul>
 			</div>
 		</div>
@@ -81,14 +81,14 @@ show_tile: true
 				</header>
 				<p>Another project developed for Digital Lab, part of my last semester at Dania. A runner / Rhythm game meant to induce flow in patients before or during a medical procedure to alleviate stress.</p>
 				<ul class="actions">
-					<li><a href="yinyang.html" class="button">Learn more about Rythm Robot</a></li>
+					<li><a href="RythmRobot.html" class="button">Learn more about Rythm Robot</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/Survivor.png %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/CRPG_Arena01.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -97,7 +97,7 @@ show_tile: true
 				</header>
 				<p>Solo developed FPS project made in my off time. Made from scratch using Unreal Engine C++. Taking inspiration from Arena shooters and Survivor-Likes, this game offers a lot of action and challenge.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more about CINIS - Survivor</a></li>
+					<li><a href="cinisSurvivor.html" class="button">Learn more about CINIS - Survivor</a></li>
 				</ul>
 			</div>
 		</div>
@@ -113,7 +113,7 @@ show_tile: true
 				</header>
 				<p>Initially a team project which i helped start develop as a visiting student at the Center of Digital Media in Vancouver, Canda. The project was developed for Digital Lab, who was seeking a virtual Sandtray therapy solution. I later interned for Digital Lab and continued development, adding online features, recording, and more!</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more about SandScape</a></li>
+					<li><a href="SandScape.html" class="button">Learn more about SandScape</a></li>
 				</ul>
 			</div>
 		</div>
@@ -129,7 +129,7 @@ show_tile: true
 				</header>
 				<p>Major project made during my AP in Computer Science at Dania Games. A procedurally generated open-world RPG set in the Bionicle universe, developed in Monogame using C#.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more about Bionicle: Destiny of the Toa</a></li>
+					<li><a href="bionicleDOTT.html" class="button">Learn more about Bionicle: Destiny of the Toa</a></li>
 				</ul>
 			</div>
 		</div>
@@ -145,7 +145,7 @@ show_tile: true
 				</header>
 				<p>School project developed last year of my time at Game College while in Seattle, USA. A game about doding bombs and digging, made in Unity. Features singleplayer, local co-op and versus gameplay.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more about Bomb Survival</a></li>
+					<li><a href="BombSurvival.html" class="button">Learn more about Bomb Survival</a></li>
 				</ul>
 			</div>
 		</div>
@@ -156,11 +156,11 @@ show_tile: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Header</h2>
+			<h2>Want to know more or contact?</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>At the bottom of the website is several contact or info links to my socials! If you want to read more about me personally, go to the about page here below.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="/about/" class="button next">About me</a></li>
 		</ul>
 	</div>
 </section>

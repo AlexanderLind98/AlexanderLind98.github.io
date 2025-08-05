@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: Hi, I'm Alexander
 description: null
-image: null
+image: assets/images/CRPG_ChaosKnight_Crop.png
 author: null
 show_tile: false
 ---

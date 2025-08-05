@@ -64,7 +64,7 @@ nav-menu: true
 				</header>
 				<p>Initially a team project which i helped start develop as a visiting student at the Center of Digital Media in Vancouver, Canda. The project was developed for Digital Lab, who was seeking a virtual Sandtray therapy solution. I later interned for Digital Lab and continued development, adding online features, recording, and more!</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more about SandScape</a></li>
+					<li><a href="Sandscape.html" class="button">Learn more about SandScape</a></li>
 				</ul>
 			</div>
 		</div>
@@ -75,11 +75,11 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Header</h2>
+			<h2>Want to see more?</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>The projects above I feel reflect my best and most recent work, but of course it's not all I've done!</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="z_all_projects.html" class="button next">View all projects</a></li>
 		</ul>
 	</div>
 </section>
