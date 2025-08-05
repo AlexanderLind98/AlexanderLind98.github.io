@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>Most recent solo project! Using the code base from my previous project, I have made modifications and extensions turning it into a full RPG. This project is still ongoing, with new features being added and planned as development continues!.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more about CINIS - RPG</a></li>
+					<li><a href="cinisRPG.html" class="button">Learn more about CINIS - RPG</a></li>
 				</ul>
 			</div>
 		</div>
@@ -48,7 +48,7 @@ nav-menu: true
 				</header>
 				<p>A 3D rendering / basic game engine made from scratch, using C# and OpenTK. Plenty of rendering features, capable of showing detailed 3D scenes. Contains scene loading, and some basic run-time logic like linear animation and basic collision events.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more about YinYang</a></li>
+					<li><a href="yinyang.html" class="button">Learn more about YinYang</a></li>
 				</ul>
 			</div>
 		</div>
