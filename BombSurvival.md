@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bomb Survival
+permalink: /BombSurvival/
 description: A Unity game about dodging bombs and digging holes.
 image: assets/images/BombSurvival.png
 show_tile: false

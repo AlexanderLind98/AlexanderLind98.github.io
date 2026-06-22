@@ -1,5 +1,6 @@
 ---
 title: Featured Projects
+permalink: /Featured/
 layout: landing
 description: 'I have created quite a few projects over the years, so here is some general info and my most recent and noteworthy work!'
 image: assets/images/CRPG_ChaosKnight_Crop.png

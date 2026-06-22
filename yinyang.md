@@ -1,6 +1,7 @@
 ---
 layout: page
 title: YinYang Engine
+permalink: /YinYang/
 description: A 3D rendering engine made in C#
 image: assets/images/YinYang_Thumb.png
 show_tile: true

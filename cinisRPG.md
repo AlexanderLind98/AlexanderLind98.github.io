@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CINIS - RPG
+permalink: /CINIS_RPG/
 description: A FPS RPG prototype, currently in development
 image: assets/images/CINIS_RPG_Banner.PNG
 nav-menu: false

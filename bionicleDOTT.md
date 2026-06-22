@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bionicle Destiny of the Toa
+permalink: /BionicleDOTT/
 description: A procedurally generated open-world RPG made in Monogame / C#
 image: assets/images/bio.png
 show_tile: false

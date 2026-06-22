@@ -1,6 +1,7 @@
 ---
 layout: page
 title: SandScape
+permalink: /SandScape/
 description: A digital Sandtray therapy solution
 image: assets/images/SandScape-cover.jpg
 show_tile: true

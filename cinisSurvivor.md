@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CINIS - SURVIVOR
+permalink: /CINIS_Survivor/
 description: An FPS game with rogue-lite / survivor-like gameplay
 image: assets/images/CRPG_Arena01.png
 nav-menu: false

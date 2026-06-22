@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Rythm Robot
+permalink: /RythmRobot/
 description: My second project developed for Digital Lab
 image: assets/images/RythmRobot.png
 show_tile: false

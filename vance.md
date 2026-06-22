@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Vance
+permalink: /Vance/
 description: An ambitious campaign mod for Half-Life 2
 image: assets/images/vance01.png
 show_tile: false
