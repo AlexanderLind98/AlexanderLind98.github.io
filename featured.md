@@ -33,7 +33,7 @@ nav-menu: true
 				</header>
 				<p>Most recent solo project! Using the code base from my previous project, I have made modifications and extensions turning it into a full RPG. This project is still ongoing, with new features being added and planned as development continues!.</p>
 				<ul class="actions">
-					<li><a href="cinisRPG.html" class="button">Learn more about CINIS - RPG</a></li>
+					<li><a href="/CINIS_RPG/" class="button">Learn more about CINIS - RPG</a></li>
 				</ul>
 			</div>
 		</div>
@@ -49,7 +49,7 @@ nav-menu: true
 				</header>
 				<p>A 3D rendering / basic game engine made from scratch, using C# and OpenTK. Plenty of rendering features, capable of showing detailed 3D scenes. Contains scene loading, and some basic run-time logic like linear animation and basic collision events.</p>
 				<ul class="actions">
-					<li><a href="yinyang.html" class="button">Learn more about YinYang</a></li>
+					<li><a href="/YinYang/" class="button">Learn more about YinYang</a></li>
 				</ul>
 			</div>
 		</div>
@@ -65,7 +65,7 @@ nav-menu: true
 				</header>
 				<p>Initially a team project which i helped start develop as a visiting student at the Center of Digital Media in Vancouver, Canda. The project was developed for Digital Lab, who was seeking a virtual Sandtray therapy solution. I later interned for Digital Lab and continued development, adding online features, recording, and more!</p>
 				<ul class="actions">
-					<li><a href="Sandscape.html" class="button">Learn more about SandScape</a></li>
+					<li><a href="/SandScape/" class="button">Learn more about SandScape</a></li>
 				</ul>
 			</div>
 		</div>
@@ -80,7 +80,7 @@ nav-menu: true
 		</header>
 		<p>The projects above I feel reflect my best and most recent work, but of course it's not all I've done!</p>
 		<ul class="actions">
-			<li><a href="projects.html" class="button next">View all projects</a></li>
+			<li><a href="/Projects/" class="button next">View all projects</a></li>
 		</ul>
 	</div>
 </section>
