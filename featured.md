@@ -79,7 +79,7 @@ nav-menu: true
 		</header>
 		<p>The projects above I feel reflect my best and most recent work, but of course it's not all I've done!</p>
 		<ul class="actions">
-			<li><a href="z_all_projects.html" class="button next">View all projects</a></li>
+			<li><a href="projects.html" class="button next">View all projects</a></li>
 		</ul>
 	</div>
 </section>

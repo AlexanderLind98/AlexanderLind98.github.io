@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-I'm a game developer, and currently Bachelor Student in Software Engineering. I have been learning to make games for about 10 years now, for most of it in my spare time. I've released 3 solo projects, and worked on many other projects through either my school work or projects in my free time. 
+I'm a game developer. I have been learning to make games for about 10 years now, for most of it in my spare time. I've released 3 solo projects, and worked on many other projects of varying scope and team sizes through either my school work or projects in my spare time. 
