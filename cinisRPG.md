@@ -10,38 +10,44 @@ show_tile: true
 
 <div id="main" class="alt">
 
-<section id="one">
-	<div class="inner">
+<section id="Title">
+	<div class="Title">
 		<header class="major">
 			<h1>CINIS - RPG</h1>
 		</header>
+    </div>
+</section>
 
 <p>
     (July, 2025 - Ongoing)<br>
     Current project, FPS RPG made in Unreal Engine 5.5 using C++ & BPs. Prototype in narrative and RPG mechanics.
-<p>
+</p>
 
-<section id="two">
+<section id="Trailer">
 	<div class="inner">
 		<header class="major">
 			<h2>Game Trailer</h2>
 		</header>
+    </div>
 
-<p>
-    <iframe width="1280" height="720"
-    src = "https://www.youtube.com/embed/jxukLuQ3yag">
-    </iframe>
-<p>
+    <div style= "position: relative; padding-top:50%;">
+        <iframe
+            src = "https://www.youtube.com/embed/jxukLuQ3yag"
+            style="position:absolute;top:0;left:0;width:100%;height:100%;">
+        </iframe>
+    </div>
+</section>
 
-<section id="three">
+<section id="About">
 	<div class="inner">
 		<header class="major">
 			<h2>About CINIS - RPG</h2>
 		</header>
+    </div>>
+</section>
 
-<p>
+<section id="Table">
     'CINIS - RPG' is my most recent and current solo project! Iterating upon the combat from my previous project, CINIS - Survivor. Over the span of ~2 months I have been upgrading and expanding the game to become a full role-playing game. Since it builds on a strong foundation of combat and visual assets, focus is on new mechanics and genre stables of roleplaying games. It adds things such as: <br>
-
     <div class="table-wrapper">
         <table>
             <thead>
@@ -77,16 +83,17 @@ show_tile: true
     </div>
 
     Nature of it being a solo project, most of the content is made by me, with help from testers and additional input. Look in game credits for more info!
-<p>
+</section>
 
-<section id="two">
+<section id="Links">
 	<div class="inner">
 		<header class="major">
 			<h1>Links</h1>
 		</header>
-
-<ul class="actions">
-<li><a href="https://alexanderlind.itch.io/cinis-rpg" class="button special">Itch.io page</a></li>
-<li><a href="https://youtu.be/jxukLuQ3yag" class="button special">Video on YouTube</a></li>
-</ul>   
-
+        <ul class="actions">
+            <li><a href="https://alexanderlind.itch.io/cinis-rpg" class="button special">Itch.io page</a></li>
+            <li><a href="https://youtu.be/jxukLuQ3yag" class="button special">Video on YouTube</a></li>
+        </ul>   
+    </div>
+</section>
+</div>
