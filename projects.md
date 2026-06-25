@@ -81,6 +81,22 @@ show_tile: true
         </section>
         <section>
             <a href="generic.html" class="image">
+                <img src="{% link assets/images/AMod.png %}" alt="" data-position="center center" />
+            </a>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                        <h3>AMod (2025)</h3>
+                    </header>
+                    <p>A mini  Half-Life 2 mod, made by myself over a weekend, to learn how to work in the Source Engine.</p>
+                    <ul class="actions">
+                        <li><a href="/AMod/" class="button">More about AMod</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <section>
+            <a href="generic.html" class="image">
                 <img src="{% link assets/images/RythmRobot.png %}" alt="" data-position="center center" />
             </a>
             <div class="content">
@@ -98,7 +114,7 @@ show_tile: true
         </section>
         <section>
             <a href="generic.html" class="image">
-                <img src="{% link assets/images/CRPG_Arena01.png %}" alt="" data-position="center center" />
+                <img src="{% link assets/images/survivor01.png %}" alt="" data-position="center center" />
             </a>
             <div class="content">
                 <div class="inner">
@@ -151,6 +167,22 @@ show_tile: true
         </section>
         <section>
             <a href="generic.html" class="image">
+                <img src="{% link assets/images/MGN.png %}" alt="" data-position="center center" />
+            </a>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                        <h3>MGN (2022)</h3>
+                    </header>
+                    <p>A prototype Movement FPS developed in the early days of Unreal Engine 5.</p>
+                    <ul class="actions">
+                        <li><a href="/MGN/" class="button">More about MGN</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <section>
+            <a href="generic.html" class="image">
                 <img src="{% link assets/images/BombSurvival.png %}" alt="" data-position="center center" />
             </a>
             <div class="content">
@@ -162,6 +194,22 @@ show_tile: true
                     A game about doding bombs and digging, made in Unity. Features singleplayer, local co-op and versus gameplay.</p>
                     <ul class="actions">
                         <li><a href="/BombSurvival/" class="button">More about Bomb Survival</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+         <section>
+            <a href="generic.html" class="image">
+                <img src="{% link assets/images/CINIS_Classic.png %}" alt="" data-position="center center" />
+            </a>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                        <h3>CINIS - Classic (2022)</h3>
+                    </header>
+                    <p>The original CINIS: A Rogue-like QUAKE game.</p>
+                    <ul class="actions">
+                        <li><a href="/CINIS_C/" class="button">More about CINIS - Classic</a></li>
                     </ul>
                 </div>
             </div>

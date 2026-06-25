@@ -30,12 +30,27 @@ nav-menu: false
             </header>
 
             <p>
-                Below is a short video from my early time in the project, showcasing some of the work I did that day to the rest of the team.
+                Due to the fully-remote nature of the team, I would make several videos showcasing and explaining implemented features,
+                to best demo them to the team. Below a few examples of these videos can be seen!
             </p>
 
             <div style="position: relative; padding-top: 50%;">
                 <iframe
                     src="https://www.youtube.com/embed/nu2UMxjhoTo"
+                    style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                </iframe>
+            </div>
+
+            <div style="position: relative; padding-top: 50%;">
+                <iframe
+                    src="https://www.youtube.com/embed/6-av5LRCQuk"
+                    style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                </iframe>
+            </div>
+
+            <div style="position: relative; padding-top: 50%;">
+                <iframe
+                    src="https://www.youtube.com/embed/_5bs3OSAoLQ"
                     style="position:absolute;top:0;left:0;width:100%;height:100%;">
                 </iframe>
             </div>
