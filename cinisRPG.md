@@ -2,8 +2,8 @@
 layout: page
 title: CINIS
 permalink: /CINIS/
-description: A Retro FPS ARPG in ongoing development
-image: assets/images/CINIS_RPG_Banner.PNG
+description: My latest and greatest. If you are not sure where to look first, this game has it all.
+image: assets/images/CINIS_KeyArt.PNG
 nav-menu: false
 show_tile: true
 ---
@@ -124,6 +124,10 @@ show_tile: true
                     </tfoot>
                 </table>
             </div>
+            <p>
+                CINIS is far from done, many systems can use improvements, and some are still missing. But the project
+                stands well, with a solid foundation, and is only improving technically, and in features and content.
+            </p>
         </div>
     </section>
 
