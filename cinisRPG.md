@@ -3,7 +3,7 @@ layout: page
 title: CINIS
 permalink: /CINIS/
 description: My latest and greatest. If you are not sure where to look first, this game has it all.
-image: assets/images/CINIS_KeyArt.PNG
+image: assets/images/CINIS_KeyArt.png
 nav-menu: false
 show_tile: true
 ---
