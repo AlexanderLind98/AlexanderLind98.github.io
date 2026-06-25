@@ -14,11 +14,11 @@ show_tile: false
         <div class="inner">
             <header class="major">
                 <h1>TITLE</h1>
+                (MMMM, YYYY - MMMM, YYYY)
             </header>
 
             <p>
                 SHORT DESC<br>
-                (MMMM, YYYY - MMMM, YYYY)
             </p>
         </div>
     </section>
